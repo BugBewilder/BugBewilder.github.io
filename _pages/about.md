@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Profile"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Yujian Liu. This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi everyone, I am a Master in Biomedical Engineering from South China University of Technology. I have a strong interest in algorithm design of diffusion model and CNN and its application in science.
+
+Currently, my graduate advisor is Prof. Shidang Xu, focusing on the fascinating field of AI for science. Our work centers around harnessing the potential of AI in biology, chemistry and medicine.
+
+Please feel free to contact me if you have similar interests or have any questions, or if you are looking for potential collaboration opportunities, especially in the area of AI for Science. I look forward to connecting with enthusiasts and researchers in these fields.
 
 A data-driven personal website
 ======
