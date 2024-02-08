@@ -25,5 +25,5 @@ Please feel free to contact me if you have similar interests or have any questio
 - 🎓 Undergraduate in Communication Engineering, 19.09 - 23.06  
   🏫 Central South University of Forestry & Technology
 
-- 🎓 Master in Biomedical Engineering, 23.06 - 26.06 (Now)
+- 🎓 Master in Biomedical Engineering, 23.06 - 26.06 (Now)  
   🏫 South China University of Technology
